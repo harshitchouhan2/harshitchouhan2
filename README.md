@@ -49,8 +49,8 @@ This unique combo gives me an edge in
 ---
 
 ## 🧠 LeetCode Progress  
-- **220+ Problems Solved**  
-- **Top 5% global ranking**  
+- **300+ Problems Solved**  
+- **Top 4% global ranking**  
 - **81.8% Acceptance Rate (above industry avg)**  
 - Learning DSA daily in Python  
 
