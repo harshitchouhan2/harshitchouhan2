@@ -10,7 +10,7 @@ Now I’m transitioning into the **Software Engineering world**, bringing with m
 ## 💼 Work Experience (Worked in Large Solar Power Plant 100+ MW)
 
 ### 🔹 Senior Engineer – Avaada Energy Pvt. Ltd.  
-**(2020 – Present)**  
+**(June 2024 – Present)**  
 - Managed large solar plant operations with a focus on reliability & automation.  
 - Worked with **Modbus communication**, extracting inverter data and storing it into **MySQL** databases.  
 - Designed troubleshooting workflows, preventive maintenance plans, and reporting dashboards.  
